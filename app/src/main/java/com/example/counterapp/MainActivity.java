@@ -22,4 +22,9 @@ public class MainActivity extends AppCompatActivity {
         count++;
         countervalue.setText(Integer.toString(count));
     }
+
+    public void countreset (View view) {
+        count = 0;
+        countervalue.setText(Integer.toString(count));
+    }
 }
