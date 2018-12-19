@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Counter App</string>
+    <string name="counter">0</string>
+    <string name="add_button">+</string>
+    <string name="reset_button">Reset</string>
+    <string name="minus_button">-</string>
+    <string name="add5">+5</string>
+    <string name="sub5">-5</string>
+    <string name="add10">+10</string>
+    <string name="sub10">-10</string>
+    <string name="add100">+100</string>
+    <string name="sub100">-100</string>
+    <string name="jumpvaluedef">Enter Number</string>
+    <string name="jumpto">Jump To</string>
+    <string name="jumpby">Jump By</string>
 </resources>
