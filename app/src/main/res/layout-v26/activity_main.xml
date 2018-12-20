@@ -218,7 +218,7 @@
         android:autofillHints=""
         android:ems="10"
         android:hint="@string/jumpvaluedef"
-        android:inputType="number"
+        android:inputType="numberSigned"
         android:textColor="@android:color/white"
         android:textColorHint="#5C6BC0"
         app:layout_constraintBottom_toBottomOf="@+id/jumpby"
